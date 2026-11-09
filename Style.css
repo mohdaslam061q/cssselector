@@ -1,0 +1,42 @@
+*{
+   background-color:pink;
+   COLOR: black;
+}
+
+p{
+    background-color:greenyellow;
+    color: black;
+}
+
+pre{
+    background-color: black;
+    color: white;
+}
+
+
+h1.heading{
+    background-color: aqua;
+    color: white;
+
+}
+#intro{
+    background-color: blue;
+    color: white;
+}
+h3{
+    background-color: green;
+    color: white;
+}
+h4{
+    background-color: yellow;
+    color: white;
+}
+h5{
+    background-color: orange;
+    color: white;
+}
+h6{
+    background-color: red;
+    color: white;
+}
+
